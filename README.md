@@ -76,11 +76,10 @@ src/
 
 ### Passos
 Clone o repositório:
-git clone https://github.com/seu-usuario/sistema-cadastro-funcionarios.git
+git clone https://github.com/seu-usuario/sistema-cadastro-funcionarios.git 
 Abra o projeto na IDE
 
 Execute a classe:
-
 Program/Programa.java
 Interaja com o menu pelo console
 
