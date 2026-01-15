@@ -1,4 +1,4 @@
-# 📋 Sistema de Cadastro de Funcionários
+# Sistema de Cadastro de Funcionários
 
 Sistema de gerenciamento de funcionários desenvolvido em **Java 21 (LTS)**, utilizando **Programação Orientada a Objetos (POO)** e uma **arquitetura em camadas**, com separação clara entre entidades, repositório e serviços.
 
@@ -35,7 +35,7 @@ src/
 
 ---
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 - Encapsulamento
 - Separação de responsabilidades (Entity / Repository / Service)
@@ -47,18 +47,18 @@ src/
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-- ✅ Cadastrar funcionário
-- ❌ Remover funcionário pelo ID
-- 🔍 Buscar funcionário pelo ID
-- 📃 Listar todos os funcionários
-- 💰 Aplicar aumento salarial com validações
-- 🚫 Impede cadastro de funcionários com ID duplicado
+-  Cadastrar funcionário
+-  Remover funcionário pelo ID
+-  Buscar funcionário pelo ID
+-  Listar todos os funcionários
+-  Aplicar aumento salarial com validações
+-  Impede cadastro de funcionários com ID duplicado
 
 ---
 
-## 🧩 Regras de negócio
+## Regras de negócio
 
 - Não permite cadastro de funcionários com **ID duplicado**
 - O aumento salarial:
@@ -68,15 +68,14 @@ src/
 
 ---
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 ### Pré-requisitos
 - **Java 21** instalado
 - IDE Java (IntelliJ IDEA, Eclipse ou VS Code)
 
 ### Passos
-1. Clone o repositório:
-```bash
+Clone o repositório:
 git clone https://github.com/seu-usuario/sistema-cadastro-funcionarios.git
 Abra o projeto na IDE
 
@@ -93,25 +92,19 @@ Escolha uma das opções a seguir
 4- listar funcionarios
 5- aumentar salario
 0- sair
-🚀 Possíveis melhorias futuras
+Possíveis melhorias futuras
 Persistência de dados em arquivo (CSV ou TXT)
 
 Busca de funcionários por nome
 
 Ordenação por salário
 
-Uso de Optional
-
-Exceções customizadas
-
-Testes unitários com JUnit
-
 Conversão do projeto para API REST com Spring Boot
 
- Autor
-Projeto desenvolvido por Cícero, estudante de Análise e Desenvolvimento de Sistemas, com foco em Backend Java.
+Autor
+Projeto desenvolvido por José Cícero, estudante de Análise e Desenvolvimento de Sistemas, com foco em Backend Java.
 
- Observação
+Observação
 Este projeto faz parte do meu processo de aprendizado e evolução em Java e Programação Orientada a Objetos.
 Sugestões e feedbacks são sempre bem-vindos!
 
