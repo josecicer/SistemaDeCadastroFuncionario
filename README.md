@@ -83,7 +83,8 @@ Execute a classe:
 Program/Programa.java
 Interaja com o menu pelo console
 
-🖥️ Exemplo de menu
+ 
+Exemplo de menu
 Escolha uma das opções a seguir
 1- adicionar funcionario
 2- apagar funcionario
